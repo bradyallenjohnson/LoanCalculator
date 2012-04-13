@@ -1,0 +1,17 @@
+
+A simple loan calculator written in Java using a Swing GUI.
+
+The following can be calculated given the correct inputs:
+- Monthly Payment
+- Amount
+- Interest
+- Number of payments
+- Balance
+
+Inputs are the following and should be supplied depending on the aforementioned calculation type:
+- Amount
+- Initial Payment
+- Loan Fee %
+- Interest %
+- Payment
+- Months
