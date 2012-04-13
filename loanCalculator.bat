@@ -1,2 +1,2 @@
 @echo off
-java -cp . com.johnson.LoanCalculator.LoanCalculatorMain
+java -cp classes com.johnson.LoanCalculator.LoanCalculatorMain
